@@ -70,3 +70,7 @@ This smart door control system is designed with two microcontrollers, one acting
 ## **License**
 This project is supervised by **Edges For Training**
 
+
+https://github.com/user-attachments/assets/29a46e2d-061d-473a-a484-a18e6de08c3a
+
+
